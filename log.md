@@ -1,30 +1,21 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log : [Abel Mengistu]
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+List of Projects to be engaged in consecutive order: 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+1. Temesgen Project for developing UI. 
+2. Assighment for the text analaysis collection framework 
+3. freecodecamp full stack course and some more challenges below
+4. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+5. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: Nov 13, Monday
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Text Analaysis Using .Net Collection Framework. Assignment. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts** I am going to do the assignment for text analysis from collection of two sets of text books and count top 10 workds and number of
+times they occur in one of the set and not used in the other set. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
